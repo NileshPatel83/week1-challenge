@@ -70,6 +70,17 @@ footer{
     font-size: 36px;
 }
 
+.content-style{
+    height: 200px;
+    margin-bottom: 20px;
+    padding: 50px;
+    background-color: #0072bb;
+}
+
+.content-image-max-height{
+    max-height: 200px;
+}
+
 .benefits{
     width: 18%;
     margin-right: 20px;
@@ -90,17 +101,6 @@ footer{
 
 .benefits p{
     font-size: 16px;
-}
-
-.section-style{
-    height: 200px;
-    margin-bottom: 20px;
-    padding: 50px;
-    background-color: #0072bb;
-}
-
-.content-image-max-height{
-    max-height: 200px;
 }
 
 .benefits-image-max-width{
