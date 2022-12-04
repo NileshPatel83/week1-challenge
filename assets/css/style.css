@@ -3,12 +3,36 @@
     padding: 0;
 }
 
+h1 {
+    font-size: 48px;
+    color: white;
+}
 
+body {
+    background-color: #d9dcd6;
+}
 
+.header{
+    background-color: #2a607c;  
+}
 
+.header nav{
+    text-align: right;
+}
 
+.inline-text-display{
+    display: inline;
+    padding: 0 20px;
+}
 
+.text-decoration-none{
+    text-decoration: none; 
+    color: white;
+}
 
+#seo{
+    color: #d9dcd6;
+}
 
 
 
