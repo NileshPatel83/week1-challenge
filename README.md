@@ -24,7 +24,7 @@ Following refactorings have been applied to source codes:
 The webpage is deployed to GitHub pages. Use below link to visit the webpage: https://nileshpatel83.github.io/week1-challenge/
 
 ## Refactored Webpage
-![Alt text](.\assets\images\Mock-Up.png)
+![Refactored Webpage](https://github.com/NileshPatel83/week1-challenge/blob/main/assets/images/Mock-Up.png)
 
 ## License
 Please refer to the LICENSE in the repo.
